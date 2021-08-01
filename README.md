@@ -1,4 +1,4 @@
-# - 
+# layer simple randomization method
 data randomization1;
 input r1 r2 r3 r4 r5 r6 r7@@;
 cards;
